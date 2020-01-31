@@ -1,3 +1,11 @@
+Q1:
+Q1a.py is running with the online free api to check the source IP location.
+Q1b.py is running with the MaxMind's GeoIP2 databases.
+You need to install the package wiht the command:
+```
+pip install maxminddb-geolite2
+```
+
 Q2:
 Need to have credentials files with the access key and secret
 ```
